@@ -1,14 +1,14 @@
 import React from "react";
 
 const personalInfoContent = [
-  { meta: "first name", metaInfo: "Jack" },
+  { meta: "first name", metaInfo: "James" },
   { meta: "last name", metaInfo: "Lee" },
   { meta: "Age", metaInfo: "28 Years" },
-  { meta: "Nationality", metaInfo: "United State" },
+  { meta: "Nationality", metaInfo: "Canada" },
   { meta: "Freelance", metaInfo: "Available" },
-  { meta: "Address", metaInfo: "640 Granite Way, Wellington, NV, 89444" },
+  { meta: "Address", metaInfo: "2314 11th Ave, Calgary, Canada" },
   { meta: "phone", metaInfo: "+1 613-226-2647" },
-  { meta: "Email", metaInfo: "jakelee2020716@gmail.com" },
+  { meta: "Email", metaInfo: "jame98813@gmail.com" },
   { meta: "Skype", metaInfo: "live:.cid.cdcf78e50858c224" },
   { meta: "Telegram", metaInfo: "@jame98813" },
   { meta: "languages", metaInfo: "English" },
